@@ -3,7 +3,9 @@ EFI.NET: A very foolish attempt at porting CoreCLR to UEFI
 
 It's not ready yet...  
 
-The uefi setup is based on [pbatard's fork of UEFI:SIMPLE](https://github.com/pbatard/uefi-simple)
+The uefi setup is based on [pbatard's fork of UEFI:SIMPLE](https://github.com/pbatard/uefi-simple)  
+
+Runtime indirectly based on [CoreCLR](https://github.com/dotnet/runtime/tree/main/src/coreclr)
 
 ## Prerequisites
 
