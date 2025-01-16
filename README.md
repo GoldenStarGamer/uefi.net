@@ -1,13 +1,9 @@
-UEFI:SIMPLE - EFI development made easy
+EFI.NET: A very foolish attempt at porting CoreCLR to UEFI
 =======================================
 
-A simple UEFI "Hello World!" style application that can:
-* be compiled on Windows or Linux, using Visual Studio 2022, MinGW or gcc.
-* be compiled for x86_32, x86_64, ARM, ARM64 or RISCV64 targets
-* be tested on the fly, through a [QEMU](https://www.qemu.org/) + 
- [OVMF](https://github.com/tianocore/tianocore.github.io/wiki/OVMF) or
- [QEMU_EFI](http://snapshots.linaro.org/components/kernel/leg-virt-tianocore-edk2-upstream/latest/)
- virtual machine.
+It's not ready yet...  
+
+The uefi setup is based on [pbatard's fork of UEFI:SIMPLE](https://github.com/pbatard/uefi-simple)
 
 ## Prerequisites
 
