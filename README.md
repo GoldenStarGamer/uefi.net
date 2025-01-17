@@ -1,11 +1,11 @@
-EFI.NET: A very foolish attempt at porting CoreCLR to UEFI
+EFI.NET: A very foolish attempt at making a .NET runtime in UEFI
 =======================================
 
 It's not ready yet...  
 
 The uefi setup is based on [pbatard's fork of UEFI:SIMPLE](https://github.com/pbatard/uefi-simple)  
 
-Runtime indirectly based on [CoreCLR](https://github.com/dotnet/runtime/tree/main/src/coreclr)
+Tries to meet the [ECMA 335](https://ecma-international.org/publications-and-standards/standards/ecma-335/) standard
 
 ## Prerequisites
 
